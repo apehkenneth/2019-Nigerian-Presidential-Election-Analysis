@@ -12,3 +12,12 @@ Power BI
 
 # Data Source 
 https://en.wikipedia.org/wiki/2019_Nigerian_general_election#cite_note-8
+
+
+# Result
+- The APC received 15.19 million votes (56.95 per cent) in the 2019 presidential election, while the PDP received 11.26 million votes (42.22 percent).
+
+- The APC won 19 of the 36 states, while the PDP won 17, plus Abuja (FCT).
+
+- Out of the six regions, the PDP won only two (South East and South South) while the remaining four were won by the APC.
+
